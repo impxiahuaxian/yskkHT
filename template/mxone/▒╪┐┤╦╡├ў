@@ -1,0 +1,10 @@
+解压文件把mxone放到模板目录下
+把mxstatic文件夹放到根目录
+网站模板选择mxone 模板目录填写html_tplmx
+
+后台地址：mxone主题,/admin.php/admin/mxone/mxoneset
+admin.php改成你登录后台的xxx.php
+先应用主题打开前台，再点击后台。
+
+一定先应用主题打开前台，再点击后台。
+此模板由想看资源网(www.xiangkanzy.com)提供

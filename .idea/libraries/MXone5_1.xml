@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MXone5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/template/MXone5.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
